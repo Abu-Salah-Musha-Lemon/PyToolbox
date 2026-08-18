@@ -1,4 +1,4 @@
-# 🛠️ PyForge
+# 🛠️ PyToolbox
 
 A growing collection of practical **Python scripts, utilities, and Google Colab notebooks** for automation, document processing, image processing, AI experiments, data processing, and other useful tasks.
 
